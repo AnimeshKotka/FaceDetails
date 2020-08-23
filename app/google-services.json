@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530094621596",
+    "firebase_url": "https://facey-d433a.firebaseio.com",
+    "project_id": "facey-d433a",
+    "storage_bucket": "facey-d433a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530094621596:android:6b2ca6b3b7e8db94cc7e59",
+        "android_client_info": {
+          "package_name": "animesh.com.facedetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530094621596-nvlsdc6j6qit1o33tsojca4q968rp0ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "animesh.com.facedetails",
+            "certificate_hash": "f2e67041526837b6bc331f2821e653217dfb5ed9"
+          }
+        },
+        {
+          "client_id": "530094621596-f5u2608nvp413jppsv4e10vga76e9203.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bMr23wPqdZWzrMkFyL6F9gpxEFY8c6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530094621596-f5u2608nvp413jppsv4e10vga76e9203.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
